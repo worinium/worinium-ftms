@@ -15,9 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ftms.application", "Src\ftm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ftms.Infrastructure", "Src\ftms.Infrastructure\ftms.Infrastructure.csproj", "{C49D9CEB-4BA6-40BD-8143-88A6DEC183D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ftms.application.test", "Tests\ftms.application.test\ftms.application.test.csproj", "{C6FB79E4-5B4D-4279-BDAA-5FF8DA2580B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ftms.application.test", "Tests\ftms.application.test\ftms.application.test.csproj", "{C6FB79E4-5B4D-4279-BDAA-5FF8DA2580B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ftms.Infrastructure.test", "Tests\ftms.Infrastructure.test\ftms.Infrastructure.test.csproj", "{7367D16F-F0F0-464D-87AA-980CAEBA41E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ftms.Infrastructure.test", "Tests\ftms.Infrastructure.test\ftms.Infrastructure.test.csproj", "{7367D16F-F0F0-464D-87AA-980CAEBA41E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
